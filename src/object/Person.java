@@ -2,7 +2,7 @@ package object;
 
 public class Person {
 	
-	String name;
+	public String name;
 	int height;
 	double weight;
 	char gender;
